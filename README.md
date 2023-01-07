@@ -9,9 +9,7 @@ I love working with Python, R, Squeal,
 Power BI, Excel, and Tableau among other 
 languages and technologies.
 
-<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
-
-<!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
+<a href="[https://github.com/mckolu/mckolu/blob/main/1.png](https://github.com/mckolu/mckolu/blob/main/python.jpg)"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
 
 # Let's Connect! 🤝
 
