@@ -13,8 +13,6 @@ languages and technologies.
 
 # Let's Connect! 🤝
 
-<img src ="https://github.com/NurcanCetinbas/NurcanCetinbas/blob/d04b83cf2422e9efe8eff0f6340ee48fe13078aa/Screen%20Shot%202023-01-05%20at%203.58.07%20PM.png" width="350" height="auto" align="right">
-
 - My home: <a href="https://www.linkedin.com/in/nurcan-cetinbas-28790984/">LinkedIn</a> 🌐
 - My second home: <a href="https://github.com/NurcanCetinbas">Website</a>  🏠 
 
