@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <a href="https://github.com/NurcanCetinbas/NurcanCetinbas/blob/d04b83cf2422e9efe8eff0f6340ee48fe13078aa/Screen%20Shot%202023-01-05%20at%203.58.07%20PM.png"><img align="right" width="349" height="auto" src="https://github.com/NurcanCetinbas/NurcanCetinbas/blob/d04b83cf2422e9efe8eff0f6340ee48fe13078aa/Screen%20Shot%202023-01-05%20at%203.58.07%20PM.png"></a>
+
+### Hi there 👋
 
 I am a Data Analyst, who is passionate about metrics, graphs, and analytics.
 Also, I enjoy **Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing**.
