@@ -12,6 +12,6 @@ Also, I love meeting with new people! Let's discover new things, share knowledge
 
 # Let's Connect! 🤝
 
-- My home: <a href="https://www.linkedin.com/in/nurcan-cetinbas-28790984/">LinkedIn</a> 🌐
+- My home: <https://www.linkedin.com/in/julie-solin-2418b5302/">LinkedIn</a> 🌐
 - My second home: <a href="https://github.com/NurcanCetinbas">Website</a>  🏠 
 
